@@ -1,0 +1,266 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Emily Johnson",
+      "classYear": "2024",
+      "bio": "Passionate about environmental science and sustainable living. Captain of the debate team and volunteer at local wildlife sanctuary.",
+      "email": "emily.johnson@email.com",
+      "phone": "+1 (555) 123-4567",
+      "avatar": "https://picsum.photos/200/200?random=1",
+      "profileImage": "https://picsum.photos/400/300?random=101",
+      "social": {
+        "facebook": "https://facebook.com/emily.johnson",
+        "instagram": "https://instagram.com/emily_eco",
+        "linkedin": "https://linkedin.com/in/emilyjohnson"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Marcus Chen",
+      "classYear": "2024",
+      "bio": "Computer science enthusiast and aspiring game developer. President of the coding club and winner of multiple hackathons.",
+      "email": "marcus.chen@email.com",
+      "phone": "+1 (555) 234-5678",
+      "avatar": "https://picsum.photos/200/200?random=2",
+      "profileImage": "https://picsum.photos/400/300?random=102",
+      "social": {
+        "facebook": "https://facebook.com/marcus.chen",
+        "instagram": "https://instagram.com/marcus_codes",
+        "linkedin": "https://linkedin.com/in/marcuschen"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Sophia Rodriguez",
+      "classYear": "2024",
+      "bio": "Theater arts major with a passion for musical performances. Lead in three school productions and aspiring Broadway performer.",
+      "email": "sophia.rodriguez@email.com",
+      "phone": "+1 (555) 345-6789",
+      "avatar": "https://picsum.photos/200/200?random=3",
+      "profileImage": "https://picsum.photos/400/300?random=103",
+      "social": {
+        "facebook": "https://facebook.com/sophia.rodriguez",
+        "instagram": "https://instagram.com/sophia_sings",
+        "linkedin": "https://linkedin.com/in/sophiarodriguez"
+      }
+    },
+    {
+      "id": 4,
+      "name": "David Kim",
+      "classYear": "2024",
+      "bio": "Star athlete and team captain of the basketball team. Also active in community service and mentoring younger students.",
+      "email": "david.kim@email.com",
+      "phone": "+1 (555) 456-7890",
+      "avatar": "https://picsum.photos/200/200?random=4",
+      "profileImage": "https://picsum.photos/400/300?random=104",
+      "social": {
+        "facebook": "https://facebook.com/david.kim",
+        "instagram": "https://instagram.com/david_hoops",
+        "linkedin": "https://linkedin.com/in/davidkim"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Isabella Taylor",
+      "classYear": "2024",
+      "bio": "Future journalist and editor-in-chief of the school newspaper. Passionate about social justice and community storytelling.",
+      "email": "isabella.taylor@email.com",
+      "phone": "+1 (555) 567-8901",
+      "avatar": "https://picsum.photos/200/200?random=5",
+      "profileImage": "https://picsum.photos/400/300?random=105",
+      "social": {
+        "facebook": "https://facebook.com/isabella.taylor",
+        "instagram": "https://instagram.com/bella_writes",
+        "linkedin": "https://linkedin.com/in/isabellataylor"
+      }
+    }
+  ],
+  "events": [
+    {
+      "id": 1,
+      "title": "Annual Sports Day",
+      "date": "2024-05-15",
+      "year": "2024",
+      "description": "A day filled with athletic competitions, team spirit, and school pride. Students participated in various sports including track and field, basketball, and swimming.",
+      "coverImage": "https://picsum.photos/800/400?random=10",
+      "media": [
+        {
+          "id": 1,
+          "type": "image",
+          "title": "Track and Field Competition",
+          "description": "Students competing in the 100-meter dash with enthusiastic crowd cheering from the sidelines.",
+          "url": "https://picsum.photos/600/400?random=11",
+          "thumbnail": "https://picsum.photos/300/200?random=11"
+        },
+        {
+          "id": 2,
+          "type": "video",
+          "title": "Basketball Championship Game",
+          "description": "Highlights from the thrilling basketball final between Class A and Class B teams.",
+          "url": "https://sample-videos.com/zip/10/mp4/SampleVideo_1280x720_1mb.mp4",
+          "thumbnail": "https://picsum.photos/600/400?random=12",
+          "duration": "2:45"
+        },
+        {
+          "id": 3,
+          "type": "image",
+          "title": "Victory Celebration",
+          "description": "Students celebrating after the championship game with trophies and medals.",
+          "url": "https://picsum.photos/600/400?random=13",
+          "thumbnail": "https://picsum.photos/300/200?random=13"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Graduation Ceremony",
+      "date": "2024-06-20",
+      "year": "2024",
+      "description": "The culmination of our academic journey. A ceremony celebrating achievements, friendships, and the beginning of new adventures.",
+      "coverImage": "https://picsum.photos/800/400?random=20",
+      "media": [
+        {
+          "id": 4,
+          "type": "image",
+          "title": "Graduation Group Photo",
+          "description": "The entire graduating class in their caps and gowns, celebrating this milestone moment together.",
+          "url": "https://picsum.photos/800/600?random=21",
+          "thumbnail": "https://picsum.photos/300/200?random=21"
+        },
+        {
+          "id": 5,
+          "type": "video",
+          "title": "Valedictorian Speech",
+          "description": "An inspiring speech about overcoming challenges, cherishing memories, and embracing the future.",
+          "url": "https://sample-videos.com/zip/10/mp4/SampleVideo_1280x720_2mb.mp4",
+          "thumbnail": "https://picsum.photos/600/400?random=22",
+          "duration": "5:12"
+        },
+        {
+          "id": 6,
+          "type": "image",
+          "title": "Cap Toss Moment",
+          "description": "The traditional cap toss moment captured in perfect timing.",
+          "url": "https://picsum.photos/600/400?random=23",
+          "thumbnail": "https://picsum.photos/300/200?random=23"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Science Field Trip",
+      "date": "2024-03-10",
+      "year": "2024",
+      "description": "An educational adventure to the Natural History Museum and Planetarium, exploring exhibits on biodiversity and space exploration.",
+      "coverImage": "https://picsum.photos/800/400?random=30",
+      "media": [
+        {
+          "id": 7,
+          "type": "image",
+          "title": "Dinosaur Exhibit Visit",
+          "description": "Students marveling at the massive T-Rex skeleton while learning about prehistoric life.",
+          "url": "https://picsum.photos/600/400?random=31",
+          "thumbnail": "https://picsum.photos/300/200?random=31"
+        },
+        {
+          "id": 8,
+          "type": "video",
+          "title": "Planetarium Experience",
+          "description": "Students experiencing an immersive journey through the solar system and beyond.",
+          "url": "https://sample-videos.com/zip/10/mp4/SampleVideo_640x360_1mb.mp4",
+          "thumbnail": "https://picsum.photos/600/400?random=32",
+          "duration": "3:30"
+        },
+        {
+          "id": 9,
+          "type": "image",
+          "title": "Interactive Science Lab",
+          "description": "Students conducting hands-on experiments in the museum's interactive science laboratory.",
+          "url": "https://picsum.photos/600/400?random=33",
+          "thumbnail": "https://picsum.photos/300/200?random=33"
+        }
+      ]
+    }
+  ],
+  "gallery": {
+    "recent": [
+      {
+        "id": "recent_1",
+        "type": "image",
+        "url": "https://picsum.photos/400/300?random=41",
+        "thumbnail": "https://picsum.photos/200/150?random=41",
+        "title": "Chemistry Lab Session",
+        "description": "Students working on molecular experiments",
+        "date": "2024-04-15"
+      },
+      {
+        "id": "recent_2",
+        "type": "video",
+        "url": "https://sample-videos.com/zip/10/mp4/SampleVideo_720x480_1mb.mp4",
+        "thumbnail": "https://picsum.photos/400/300?random=42",
+        "title": "Art Exhibition Opening",
+        "description": "Students showcasing their creative works",
+        "date": "2024-04-20",
+        "duration": "1:45"
+      },
+      {
+        "id": "recent_3",
+        "type": "image",
+        "url": "https://picsum.photos/400/300?random=43",
+        "thumbnail": "https://picsum.photos/200/150?random=43",
+        "title": "Library Study Group",
+        "description": "Collaborative learning session in the main library",
+        "date": "2024-04-18"
+      },
+      {
+        "id": "recent_4",
+        "type": "image",
+        "url": "https://picsum.photos/400/300?random=44",
+        "thumbnail": "https://picsum.photos/200/150?random=44",
+        "title": "Music Performance",
+        "description": "School orchestra performing at the spring concert",
+        "date": "2024-04-22"
+      }
+    ],
+    "featured": [
+      {
+        "id": "featured_1",
+        "type": "video",
+        "url": "https://sample-videos.com/zip/10/mp4/SampleVideo_1280x720_5mb.mp4",
+        "thumbnail": "https://picsum.photos/600/400?random=51",
+        "title": "Year in Review 2024",
+        "description": "A comprehensive look at all the memorable moments from this academic year",
+        "duration": "8:30",
+        "featured": true
+      },
+      {
+        "id": "featured_2",
+        "type": "image",
+        "url": "https://picsum.photos/800/600?random=52",
+        "thumbnail": "https://picsum.photos/300/200?random=52",
+        "title": "Class of 2024 Portrait",
+        "description": "Official graduation portrait of the entire graduating class",
+        "featured": true
+      }
+    ]
+  },
+  "api_endpoints": {
+    "students": "/api/students",
+    "events": "/api/events",
+    "media": "/api/media",
+    "gallery": "/api/gallery",
+    "search": "/api/search?q={query}",
+    "student_detail": "/api/students/{id}",
+    "event_detail": "/api/events/{id}",
+    "media_detail": "/api/media/{id}"
+  },
+  "meta": {
+    "total_students": 5,
+    "total_events": 3,
+    "total_media_items": 15,
+    "last_updated": "2024-08-02T05:45:00Z",
+    "api_version": "1.0.0"
+  }
+}
+
